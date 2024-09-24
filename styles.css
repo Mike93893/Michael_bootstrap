@@ -47,6 +47,11 @@ body {
 .about-text {
     font-size: 16px;
 }
+p.thick{
+    font-weight: bold
+}
+
+}
 
 .skills-section ul, .experience-section ul {
     list-style: none;
