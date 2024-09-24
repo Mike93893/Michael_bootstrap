@@ -47,9 +47,8 @@ body {
 .about-text {
     font-size: 16px;
 }
-p.thick{
+<p class= thick
     font-weight: bold
-}
 
 }
 
